@@ -6,7 +6,7 @@
     padding-right: 8px;
     padding-bottom: 5px;
     padding-left: 8px;
-	 
+
 
 	z-index:+10;
 	font-size:14pt;
@@ -734,6 +734,13 @@ a.strip_list:hover h3 {
 	display:block;
 	margin-bottom:0;
 	color:#85c99d}
+	.box_style_2#address_div {
+		display: flex;
+	}
+	.box_style_2#icon_span {
+			margin-right: 1em;
+    	padding-top: 3px;
+	}
 #cart_box {
 	background:#fff;
 	-webkit-border-radius:3px;
