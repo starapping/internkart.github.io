@@ -1,4 +1,4 @@
-.nobox {
+/*.nobox {
   background-color: #093e49;
   border-style: inset;
   border-color: #020202fc;
@@ -14,6 +14,8 @@
 
   color: #ffffff;
 }
+Number hidden for now.
+*/
 h1 {
   font-weight: 300;
 }
